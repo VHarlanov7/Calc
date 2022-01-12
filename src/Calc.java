@@ -8,7 +8,7 @@ public class Calc {
         String moyText = scan.nextLine();
 
 
-        String zavhoz = "пУПКИН";
+        String zavhoz = "пУ ПК ИН";
         int vozrast = 50;
 
         System.out.println(moyText + zavhoz +"  "+ vozrast);
