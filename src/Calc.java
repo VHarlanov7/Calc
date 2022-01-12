@@ -11,7 +11,7 @@ public class Calc {
         String zavhoz = "пУПКИН";
         int vozrast = 50;
 
-        System.out.println(moyText+zavhoz+" "+vozrast);
+        System.out.println(moyText + zavhoz +"  "+ vozrast);
 
 
 
